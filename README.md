@@ -14,3 +14,7 @@ Log into https://www.codingame.com/ with an account you'll use for the bot and o
 
 ### Discord token  
 Your Discord token can be found at https://discord.com/developers/applications/ in the bot tab.
+
+---
+
+Keep in mind I made this with 0 prior knowledge of Python so there could be some eyesores.
